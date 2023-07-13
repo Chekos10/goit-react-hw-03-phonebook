@@ -1,0 +1,17 @@
+.phonebookForm{
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+}
+.submitButton{
+    margin-top: 10px;
+    width: 100px;
+}
+.nameArea{
+    display: flex;
+    flex-direction: column;
+}
+.phoneArea{
+    display: flex;
+    flex-direction: column;
+}
